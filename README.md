@@ -1,6 +1,6 @@
 # **Cookie stealing**
-<p>Some cooklie stealing using php</p>
-**ONLY FOR EDUCATIONAL PURPOSES**
+<p>Some cooklie stealing using php
+**ONLY FOR EDUCATIONAL PURPOSES**</p>
 
 Some examples of using them:
 ```

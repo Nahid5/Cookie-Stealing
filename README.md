@@ -1,4 +1,4 @@
-Some cooklie stealing using php
+Some cooklie stealing using php\n
 **ONLY FOR EDUCATIONAL PURPOSES**
 
 Some examples of using them:
